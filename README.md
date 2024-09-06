@@ -1,6 +1,6 @@
 # 📊 Factorial Calculator in Python
 ---
-[In Python](https://github.com/mdriyadkhan585/Factorial-Calculator-in-C)
+[In C script](https://github.com/mdriyadkhan585/Factorial-Calculator-in-C)
 
 [In python GUI](https://github.com/mdriyadkhan585/Factorial-Calculator-GUI)
 
